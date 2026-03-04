@@ -6,10 +6,10 @@ Communication & Information Engineering | ML Degree (OpenCampus)
 ## 🔥 Featured projects
 - **HSRW University Chatbot (RAG + LLM)** — web scraping → embeddings → ChromaDB → Streamlit  
   Repo: https://github.com/aashish90939/Chbot
-- **Tuberculosis Detection (Deep Learning)** — DenseNet121 transfer learning on chest X-rays  
-  Repo: [<add link>](https://github.com/aashish90939/Tuberculosis-Prediction-Based-on-Chest-X-Rays-with-tensorflow)
+- **FineTuning LLM** — general-purpose LLM fine-tuning workbench (FastAPI + React, LoRA/QLoRA).  
+  Repo: https://github.com/aashish90939/finetunellmapp-public
 - **Software Defined Receiver (MATLAB DSP)**  
-  Repo:[ <add link>](https://github.com/aashish90939/Software-Defined-Receiver-with-Matlab)
+  Repo:https://github.com/aashish90939/Software-Defined-Receiver-with-Matlab
 
 ## 🧰 Tech
 Python • TensorFlow • PyTorch • LLMs/RAG • Scrapy • ChromaDB • Streamlit  
