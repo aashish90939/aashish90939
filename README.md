@@ -1,9 +1,9 @@
-# Hi, I'm Aashish Acharya 👋
+# Hi, I'm Aashish Acharya 🙏
 
 AI / Machine Learning Engineer / Fullstack Web developer based in Germany.  
 Communication & Information Engineering | ML Degree (OpenCampus)
 
-## 🔥 Featured projects
+## Featured projects
 - **HSRW University Chatbot (RAG + LLM)** — web scraping → embeddings → ChromaDB → Streamlit  
   Repo: https://github.com/aashish90939/Chbot
 - **FineTuning LLM** — general-purpose LLM fine-tuning workbench (FastAPI + React, LoRA/QLoRA).  
@@ -11,14 +11,14 @@ Communication & Information Engineering | ML Degree (OpenCampus)
 - **Software Defined Receiver (MATLAB DSP)**  
   Repo:https://github.com/aashish90939/Software-Defined-Receiver-with-Matlab
 
-## 🧰 Tech
+## TechStack
 Python • TensorFlow • PyTorch • LLMs/RAG • Scrapy • ChromaDB • Streamlit  
 React • Node.js • FASTAPI • PostgreSQL • postgRest • Docker • Git
 
-## 📌 Now
+##  Now
 - Building LLM apps + AI agents
 - Improving ML fundamentals & deployment
 
-## 📫 Contact
+## Contact
 LinkedIn: https://www.linkedin.com/in/aashish-a-0ba227205  
 Email: aashish90939@gmail.com
