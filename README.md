@@ -1,16 +1,24 @@
-## Hi there 👋
+# Hi, I'm Aashish Acharya 👋
 
-<!--
-**aashish90939/aashish90939** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+AI / Machine Learning Engineer / Fullstack Web developer based in Germany.  
+Communication & Information Engineering | ML Degree (OpenCampus)
 
-Here are some ideas to get you started:
+## 🔥 Featured projects
+- **HSRW University Chatbot (RAG + LLM)** — web scraping → embeddings → ChromaDB → Streamlit  
+  Repo: https://github.com/aashish90939/Chbot
+- **Tuberculosis Detection (Deep Learning)** — DenseNet121 transfer learning on chest X-rays  
+  Repo: [<add link>](https://github.com/aashish90939/Tuberculosis-Prediction-Based-on-Chest-X-Rays-with-tensorflow)
+- **Software Defined Receiver (MATLAB DSP)**  
+  Repo:[ <add link>](https://github.com/aashish90939/Software-Defined-Receiver-with-Matlab)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🧰 Tech
+Python • TensorFlow • PyTorch • LLMs/RAG • Scrapy • ChromaDB • Streamlit  
+React • Node.js • FASTAPI • PostgreSQL • postgRest • Docker • Git
+
+## 📌 Now
+- Building LLM apps + AI agents
+- Improving ML fundamentals & deployment
+
+## 📫 Contact
+LinkedIn: https://www.linkedin.com/in/aashish-a-0ba227205  
+Email: aashish90939@gmail.com
