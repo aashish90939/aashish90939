@@ -1,7 +1,7 @@
 # Hi, I'm Aashish Acharya 🙏
 
-AI / Machine Learning Engineer / Fullstack Web developer based in Germany.  
-Communication & Information Engineering | ML Degree (OpenCampus)
+AI / Machine Learning Enthusiast/ Fullstack Web developer based in Germany.  
+Communication & Information Engineering | ML Degree ⌛(OpenCampus)
 
 ## Featured projects
 - **HSRW University Chatbot (RAG + LLM)** — web scraping → embeddings → ChromaDB → Streamlit  
