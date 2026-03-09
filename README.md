@@ -21,4 +21,4 @@ React • Node.js • FASTAPI • PostgreSQL • postgRest • Docker • Git
 
 ## Contact
 LinkedIn: https://www.linkedin.com/in/aashish-a-0ba227205  
-Email: aashish90939@gmail.com
+
